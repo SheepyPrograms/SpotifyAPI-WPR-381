@@ -5,8 +5,8 @@ const fetch = require('node-fetch');
 
 // Provide client id and client secret, Needed to get api access token
 //found on spotify developer website
-const clientId = '7c2f5c3932ec43f9b6b4487912347d5c';  
-const clientSecret = 'c43404979550442483513a26aeab029a'; 
+const clientId = '';  
+const clientSecret = ''; 
 
 /*get access token, function that calls on spotify api and provides 
   the access token needed to make API calls and uses the ClientID and Client sdecret  for 
